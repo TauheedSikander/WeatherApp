@@ -2,4 +2,4 @@ streamlit
 requests
 datetime
 numpy 
-matplotlib.pyplot
+matplotlib

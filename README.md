@@ -67,10 +67,9 @@ weather-dashboard
 - Section dividers and styled headers for clarity  
 
 ## Installation & Setup
-
-### Step 1: Clone the Repository
-
 ```bash
+## Step 1: Clone the Repository
+
 git clone https://github.com/TauheedSikander/weather-dashboard.git
 cd weather-dashboard
 
@@ -81,6 +80,7 @@ pip install -r requirements.txt
 ## Step 3: Run the App Locally
 
 streamlit run app.py
+
 
 
 

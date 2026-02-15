@@ -32,12 +32,10 @@ Access the live working app here: [Weather Forecast Dashboard](https://weatherap
 - **HTML & CSS** – Custom styling for cards and sections  
 
 ## Project Structure
-weather-dashboard
-│
-├── app.py # Main Streamlit app
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-
+weather-dashboard/
+├── app.py             # Main Streamlit app
+├── requirements.txt   # Dependencies
+└── README.md          # Project documentationn
 
 ## How It Works
 
@@ -84,6 +82,7 @@ streamlit run app.py
 ## Author
 Tauheed Sikander
 GitHub: https://github.com/TauheedSikander
+
 
 
 

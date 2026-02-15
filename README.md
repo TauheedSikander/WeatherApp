@@ -66,22 +66,25 @@ weather-dashboard
 - Responsive column layout  
 - Section dividers and styled headers for clarity  
 
-## Installation & Setup
-```bash
-## Step 1: Clone the Repository
+### Installation & Setup
 
+## Step 1: Clone the Repository
+```bash
 git clone https://github.com/TauheedSikander/weather-dashboard.git
 cd weather-dashboard
-
+```
 ## Step 2: Install Dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 ## Step 3: Run the App Locally
-
+```bash
 streamlit run app.py
+```
+### Author
 
-
+Tauheed Sikander
+GitHub: https://github.com/TauheedSikander
 
 
 

@@ -76,7 +76,15 @@ cd weather-dashboard
 
 ### Step 2: Install Dependencies
 
+```bash
 pip install -r requirements.txt
+
+### Step 3: Run the App Locally
+
+```bash
+streamlit run app.py
+
+
 
 
 
